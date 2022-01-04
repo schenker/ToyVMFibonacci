@@ -1,2 +1,2 @@
 # ToyVMFibonacci
-A toy virtual machine with byte code to calculate Fibonacci numbers
+A toy virtual machine with bytecode to calculate Fibonacci numbers.
