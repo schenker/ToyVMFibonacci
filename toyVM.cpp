@@ -102,7 +102,7 @@ void exec(std::vector<int32_t> &code, uint32_t sp) {
 int main(int argc, char **argv) {
   if (argc != 2) {
     std::cout << "ERROR: agrument missing.\n";
-    std::cout << "USAGE e.g. \"./" << argv[0] << " 20\" to print the 20th fibonacci number.\n";
+    std::cout << "USAGE e.g. \"" << argv[0] << " 20\" to print the 20th fibonacci number.\n";
     return EXIT_FAILURE;
   }
 
